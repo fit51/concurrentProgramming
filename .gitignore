@@ -1,7 +1,6 @@
 target
 
-**/project/target
-**/project/project/target
+project/target
 
 .idea/**
 .idea
